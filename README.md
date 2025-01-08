@@ -28,7 +28,7 @@ This program allows you to put a video with one or more cars as input, and the a
 ### Example 3: Framed cars and displayed license plates
 
 - **Input Video:**  
-  ![Example 3 Input](5309381-hd_1920_1080_25fps.mp4)  
+  ![Example 3 Input](cut-plate.gif)  
 - **Resulting Video with Plates:**  
   ![Example 3 Output](result-cut-plate.gif)
 
